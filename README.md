@@ -1,4 +1,4 @@
-```md
+
 # 📊 Stock Market Reddit Sentiment Analysis  
 
 ## 🚀 Project Overview  
